@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="string-010.ReversingText" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ReversingText" />
+    <module name="string-010.ReversingText" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

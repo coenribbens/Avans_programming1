@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="string-007.FirstPart" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="FirstPart" />
+    <module name="string-007.FirstPart" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

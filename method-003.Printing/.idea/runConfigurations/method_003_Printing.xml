@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="method-003.Printing" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Printing" />
+    <module name="method-003.Printing" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

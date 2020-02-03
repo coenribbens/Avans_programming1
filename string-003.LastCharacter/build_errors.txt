@@ -1,0 +1,6 @@
+
+BUILD FAILED
+C:\Users\Coen-PC\Documents\IdeaProjects\TMCProjects\avansbreda-programmeren_1-2019-2020\string-003.LastCharacter\nbproject\build-impl.xml:603: The following error occurred while executing this line:
+C:\Users\Coen-PC\Documents\IdeaProjects\TMCProjects\avansbreda-programmeren_1-2019-2020\string-003.LastCharacter\nbproject\build-impl.xml:245: Compile failed; see the compiler error output for details.
+
+Total time: 1 second

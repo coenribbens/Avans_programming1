@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="userinput-005.SumOfTheAges" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="SumOfTheAges" />
+    <module name="userinput-005.SumOfTheAges" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

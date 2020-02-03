@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="userinput-004.BiggerNumber" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="BiggerNumber" />
+    <module name="userinput-004.BiggerNumber" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="string-004.SeparatingFirstCharacters" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="FirstCharacters" />
+    <module name="string-004.SeparatingFirstCharacters" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

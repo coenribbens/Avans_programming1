@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="if-005.LeapYear" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="LeapYear" />
+    <module name="if-005.LeapYear" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

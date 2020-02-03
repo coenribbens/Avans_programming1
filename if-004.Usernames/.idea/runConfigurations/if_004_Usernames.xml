@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="if-004.Usernames" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Usernames" />
+    <module name="if-004.Usernames" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="method_memory-001.CombiningArrayLists" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="CombiningArrayLists" />
+    <module name="method_memory-001.CombiningArrayLists" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

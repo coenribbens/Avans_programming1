@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="while_loop-005.FromOneToHundred" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="FromOneToHundred" />
+    <module name="while_loop-005.FromOneToHundred" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

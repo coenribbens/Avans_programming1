@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="for_loop-001.CheckerBoard" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Checkerboard" />
+    <module name="for_loop-001.CheckerBoard" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

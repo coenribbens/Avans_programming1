@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="variables-003.Addition" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Addition" />
+    <module name="variables-003.Addition" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

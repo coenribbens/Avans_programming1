@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="if-001.GreaterNumber" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="GreaterNumber" />
+    <module name="if-001.GreaterNumber" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

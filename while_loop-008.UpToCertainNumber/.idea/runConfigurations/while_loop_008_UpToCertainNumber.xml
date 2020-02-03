@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="while_loop-008.UpToCertainNumber" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="UpToCertainNumber" />
+    <module name="while_loop-008.UpToCertainNumber" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

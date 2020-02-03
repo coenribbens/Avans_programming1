@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="while_loop-009.LowerLimitAndUpperLimit" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="LowerLimitAndUpperLimit" />
+    <module name="while_loop-009.LowerLimitAndUpperLimit" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

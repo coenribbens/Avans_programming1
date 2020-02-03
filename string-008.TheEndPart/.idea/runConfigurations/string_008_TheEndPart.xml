@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="string-008.TheEndPart" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="TheEndPart" />
+    <module name="string-008.TheEndPart" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

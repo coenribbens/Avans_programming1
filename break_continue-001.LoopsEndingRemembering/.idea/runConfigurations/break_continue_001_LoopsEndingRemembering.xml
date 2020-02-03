@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="break_continue-001.LoopsEndingRemembering" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="LoopsEndingRemembering" />
+    <module name="break_continue-001.LoopsEndingRemembering" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

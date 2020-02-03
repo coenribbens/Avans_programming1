@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="542bc0ef-f14f-43a5-a1e9-7427422c0de3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1R39KnZtppLwID3t2iDPsxvfeu6" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.method-006.Hangman">
+    <configuration name="All in method-006.Hangman" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="method-006.Hangman" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in method-006.Hangman" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="542bc0ef-f14f-43a5-a1e9-7427422c0de3" name="Default Changelist" comment="" />
+      <created>1568884850113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568884850113</updated>
+      <workItem from="1568884852242" duration="4578000" />
+      <workItem from="1568919337667" duration="180000" />
+      <workItem from="1568961111850" duration="34000" />
+      <workItem from="1568967784021" duration="16000" />
+      <workItem from="1568968262262" duration="14000" />
+      <workItem from="1568968349992" duration="5000" />
+      <workItem from="1568984207188" duration="317000" />
+      <workItem from="1569392294910" duration="20000" />
+      <workItem from="1569392572624" duration="26000" />
+      <workItem from="1569393513966" duration="21000" />
+      <workItem from="1571142009875" duration="926000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

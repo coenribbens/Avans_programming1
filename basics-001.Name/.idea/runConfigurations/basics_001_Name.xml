@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="basics-001.Name" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Name" />
+    <module name="basics-001.Name" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

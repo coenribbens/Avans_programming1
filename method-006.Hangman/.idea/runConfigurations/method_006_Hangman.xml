@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="method-006.Hangman" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="HangmanUserInteface" />
+    <module name="method-006.Hangman" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
